@@ -1,6 +1,6 @@
-#!/bin/bash
+r#!/bin/bash
 RESOURCE_GROUP="RG_Lab_3"
-LOCATION="eastus2"
+LOCATION="westeurope"
 CONTAINERAPPS_ENVIRONMENT="managedEnvironment-Lab-3"
 LOG_ANALYTICS_NAME="workspacelab3"
 ACR_NAME="acr2022lab3"
